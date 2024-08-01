@@ -1,5 +1,5 @@
 
-import project2 as p2
+import Detector as p2
 
 
 #Load and display image
